@@ -7,8 +7,6 @@
 > **Interpretable Decision Support System for Early Student Risk Detection**  
 > *Research project on the effectiveness of digital technologies for improving pedagogical practice*
 
-[English](#english) | [Русский](#russian)
-
 ---
 
 ## 📋 English
