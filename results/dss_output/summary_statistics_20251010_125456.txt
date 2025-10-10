@@ -1,0 +1,18 @@
+============================================================
+EARLY WARNING SYSTEM - SUMMARY REPORT
+============================================================
+
+Generated: 2025-10-10 12:54:56
+
+Total Students: 8527
+Flagged Students: 1276 (15.0%)
+
+Risk Levels:
+  Critical: 941
+  High: 335
+  Medium: 0
+  Low: 0
+
+Average Risk Probability: 0.774
+Median Clicks (Flagged): 22
+Assessment Completion (Flagged): 6.3%
